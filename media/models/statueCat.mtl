@@ -1,0 +1,13 @@
+# Blender 4.3.2 MTL File: 'statueCat.blend'
+# www.blender.org
+
+newmtl staue1.001
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Owner/Desktop/textures/staue1Color.png
+map_Ns C:/Users/Owner/Desktop/textures/staue1Roughness.png
+map_Bump -bm 1.000000 C:/Users/Owner/Desktop/textures/staue1Normal.png
