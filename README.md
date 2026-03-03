@@ -106,6 +106,12 @@ The project includes a Release build executable that runs independently of Visua
 
 ### Youtube Video
 
-
-
 ------------------------------
+
+### Assets Used
+
+Statue 3D Model - https://sketchfab.com/3d-models/statue-ecd586875a8845cebb74aa9ea11756ed
+
+Skybox Texture - https://opengameart.org/content/cloudy-skyboxes-0
+
+Grass Texture - https://opengameart.org/content/30-grass-textures-tilable
